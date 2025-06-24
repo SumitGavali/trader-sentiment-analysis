@@ -9,7 +9,7 @@ This notebook analyzes the relationship between Bitcoin Fear-Greed Index and tra
 - Exported graphs to Excel
 
 ## 📁 Files:
-- `analysis.ipynb`: Main Jupyter notebook.
+- `Untitled.ipynb`: Main Jupyter notebook.
 - `analysis_output.xlsx`: Excel report with chart.
 - `Trade Key analysis.pdf`: Key parameters and insights.
 
